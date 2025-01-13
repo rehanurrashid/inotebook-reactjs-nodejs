@@ -1,1 +1,1 @@
-# inotebook-reactjs-nodejs
+# backend should be keep in frontend_react folder
